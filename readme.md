@@ -1,8 +1,3 @@
-# Creating a README.md file content for the project and saving it
-
-readme_content = """
-# Credit Card Launch Strategy for Atliquo Bank  
-
 ## Overview  
 This project focuses on helping **Atliquo Bank**, a new entrant in India’s banking sector, strategize the launch of their credit card in a competitive market dominated by established players like Axis Bank, ICICI Bank, and HDFC Bank. The project leverages **data science** and **financial analytics** to identify target customer segments, optimize credit card features, and validate strategies through A/B testing.
 
